@@ -1,0 +1,68 @@
+[1/5] cmd.exe /C "cd /D C:\Users\Jatki\OneDrive\Documents\ESP\DualCast-ESP\build\esp-idf\esptool_py && python C:/Espressif/frameworks/esp-idf-v5.1.2/components/partition_table/check_sizes.py --offset 0x8000 partition --type app C:/Users/Jatki/OneDrive/Documents/ESP/DualCast-ESP/build/partition_table/partition-table.bin C:/Users/Jatki/OneDrive/Documents/ESP/DualCast-ESP/build/app-template.bin"
+app-template.bin binary size 0xc1ff0 bytes. Smallest app partition is 0x100000 bytes. 0x3e010 bytes (24%) free.
+[2/5] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D C:\Users\Jatki\OneDrive\Documents\ESP\DualCast-ESP\build\bootloader\esp-idf\esptool_py && python C:/Espressif/frameworks/esp-idf-v5.1.2/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 C:/Users/Jatki/OneDrive/Documents/ESP/DualCast-ESP/build/bootloader/bootloader.bin"
+Bootloader binary size 0x5350 bytes. 0x2cb0 bytes (35%) free.
+[2/3] cmd.exe /C "cd /D C:\Espressif\frameworks\esp-idf-v5.1.2\components\esptool_py && C:\Espressif\tools\cmake\3.24.0\bin\cmake.exe -D IDF_PATH=C:/Espressif/frameworks/esp-idf-v5.1.2 -D SERIAL_TOOL=python;;C:/Espressif/frameworks/esp-idf-v5.1.2/components/esptool_py/esptool/esptool.py;--chip;esp32c6 -D SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args -D WORKING_DIRECTORY=C:/Users/Jatki/OneDrive/Documents/ESP/DualCast-ESP/build -P C:/Espressif/frameworks/esp-idf-v5.1.2/components/esptool_py/run_serial_tool.cmake"
+esptool.py --chip esp32c6 -p COM5 -b 460800 --before=default_reset --after=hard_reset write_flash --flash_mode dio --flash_freq 80m --flash_size 2MB 0x0 bootloader/bootloader.bin 0x10000 app-template.bin 0x8000 partition_table/partition-table.bin
+esptool.py v4.7.0
+Serial port COM5
+Connecting...
+Chip is ESP32-C6 (QFN40) (revision v0.0)
+Features: WiFi 6, BT 5, IEEE802.15.4
+Crystal is 40MHz
+MAC: 40:4c:ca:ff:fe:41:44:78
+BASE MAC: 40:4c:ca:41:44:78
+MAC_EXT: ff:fe
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00000000 to 0x00005fff...
+Flash will be erased from 0x00010000 to 0x000d1fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Compressed 21328 bytes to 12929...
+Writing at 0x00000000... (100 %)
+Wrote 21328 bytes (12929 compressed) at 0x00000000 in 0.4 seconds (effective 395.6 kbit/s)...
+Hash of data verified.
+Compressed 794608 bytes to 465841...
+Writing at 0x00010000... (3 %)
+Writing at 0x0001b65d... (6 %)
+Writing at 0x000248be... (10 %)
+Writing at 0x000296b8... (13 %)
+Writing at 0x00032360... (17 %)
+Writing at 0x00038d8e... (20 %)
+Writing at 0x0004060b... (24 %)
+Writing at 0x000485ae... (27 %)
+Writing at 0x0004f54a... (31 %)
+Writing at 0x00055878... (34 %)
+Writing at 0x0005c12a... (37 %)
+Writing at 0x00061fd7... (41 %)
+Writing at 0x00067ec6... (44 %)
+Writing at 0x0006de3e... (48 %)
+Writing at 0x0007419a... (51 %)
+Writing at 0x0007a0c5... (55 %)
+Writing at 0x00080345... (58 %)
+Writing at 0x0008668b... (62 %)
+Writing at 0x0008d2f3... (65 %)
+Writing at 0x0009439c... (68 %)
+Writing at 0x0009b30c... (72 %)
+Writing at 0x000a1dd8... (75 %)
+Writing at 0x000a7bab... (79 %)
+Writing at 0x000ae2ca... (82 %)
+Writing at 0x000b4da3... (86 %)
+Writing at 0x000bad60... (89 %)
+Writing at 0x000c1505... (93 %)
+Writing at 0x000c7e5a... (96 %)
+Writing at 0x000cdb03... (100 %)
+Wrote 794608 bytes (465841 compressed) at 0x00010000 in 5.2 seconds (effective 1220.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 103...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (103 compressed) at 0x00008000 in 0.1 seconds (effective 361.5 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
