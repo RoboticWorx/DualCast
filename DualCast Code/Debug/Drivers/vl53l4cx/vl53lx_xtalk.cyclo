@@ -1,0 +1,11 @@
+../Drivers/vl53l4cx/vl53lx_xtalk.c:49:14:VL53LX_xtalk_calibration_process_data	8
+../Drivers/vl53l4cx/vl53lx_xtalk.c:154:14:VL53LX_f_041	5
+../Drivers/vl53l4cx/vl53lx_xtalk.c:210:14:VL53LX_f_039	16
+../Drivers/vl53l4cx/vl53lx_xtalk.c:340:14:VL53LX_f_040	5
+../Drivers/vl53l4cx/vl53lx_xtalk.c:405:14:VL53LX_f_045	7
+../Drivers/vl53l4cx/vl53lx_xtalk.c:498:14:VL53LX_f_046	3
+../Drivers/vl53l4cx/vl53lx_xtalk.c:562:14:VL53LX_f_032	10
+../Drivers/vl53l4cx/vl53lx_xtalk.c:756:14:VL53LX_f_033	3
+../Drivers/vl53l4cx/vl53lx_xtalk.c:833:14:VL53LX_f_047	4
+../Drivers/vl53l4cx/vl53lx_xtalk.c:871:14:VL53LX_f_044	14
+../Drivers/vl53l4cx/vl53lx_xtalk.c:1004:14:VL53LX_f_043	2

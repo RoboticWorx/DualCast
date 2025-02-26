@@ -1,0 +1,12 @@
+../Drivers/sx126x/sx126x_lr_fhss.c:136:17:sx126x_lr_fhss_init	48	static
+../Drivers/sx126x/sx126x_lr_fhss.c:168:10:sx126x_lr_fhss_get_bit_delay_in_us	24	static
+../Drivers/sx126x/sx126x_lr_fhss.c:179:17:sx126x_lr_fhss_process_parameters	32	static
+../Drivers/sx126x/sx126x_lr_fhss.c:229:17:sx126x_lr_fhss_write_hop_sequence_head	32	static
+../Drivers/sx126x/sx126x_lr_fhss.c:305:17:sx126x_lr_fhss_write_payload	24	static
+../Drivers/sx126x/sx126x_lr_fhss.c:311:17:sx126x_lr_fhss_build_frame	296	static
+../Drivers/sx126x/sx126x_lr_fhss.c:341:17:sx126x_lr_fhss_handle_hop	32	static
+../Drivers/sx126x/sx126x_lr_fhss.c:369:17:sx126x_lr_fhss_handle_tx_done	32	static
+../Drivers/sx126x/sx126x_lr_fhss.c:382:17:sx126x_lr_fhss_write_hop_config	24	static
+../Drivers/sx126x/sx126x_lr_fhss.c:389:17:sx126x_lr_fhss_write_hop	32	static
+../Drivers/sx126x/sx126x_lr_fhss.c:407:10:sx126x_lr_fhss_get_next_freq_in_pll_steps	40	static
+../Drivers/sx126x/sx126x_lr_fhss.c:439:28:sx126x_lr_fhss_get_grid_in_pll_steps	16	static

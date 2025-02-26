@@ -1,0 +1,7 @@
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:78:14:lv_font_get_bitmap_fmt_txt	46
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:202:6:lv_font_get_glyph_dsc_fmt_txt	8
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:255:17:get_glyph_dsc_id	10
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:304:15:get_kern_value	8
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:360:12:kern_pair_8_compare	2
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:370:12:kern_pair_16_compare	2
+../Drivers/lvgl/src/font/lv_font_fmt_txt.c:590:12:unicode_list_compare	1

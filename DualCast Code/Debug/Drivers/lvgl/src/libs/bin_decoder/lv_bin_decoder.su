@@ -1,0 +1,15 @@
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:95:6:lv_bin_decoder_init	16	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:114:13:lv_bin_decoder_info	40	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:180:13:lv_bin_decoder_open	136	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:369:6:lv_bin_decoder_close	24	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:382:13:lv_bin_decoder_get_area	104	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:524:25:get_decoder_data	24	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:541:13:free_decoder_data	24	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:558:20:decode_indexed	80	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:680:20:load_indexed	16	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:813:23:bit_extend	24	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:827:20:decode_alpha_only	80	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:898:20:decode_compressed	16	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1016:20:decode_indexed_line	40	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1064:20:fs_read_file_at	32	static
+../Drivers/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1082:20:decompress_image	48	static

@@ -1,0 +1,8 @@
+../Drivers/bme280/common_bme.c:37:22:bme280_i2c_read	40	static
+../Drivers/bme280/common_bme.c:61:22:bme280_i2c_write	72	dynamic
+../Drivers/bme280/common_bme.c:81:22:bme280_spi_read	24	static
+../Drivers/bme280/common_bme.c:91:22:bme280_spi_write	24	static
+../Drivers/bme280/common_bme.c:101:6:bme280_delay_us	24	static
+../Drivers/bme280/common_bme.c:111:6:bme280_error_codes_print_result	16	static
+../Drivers/bme280/common_bme.c:150:8:bme280_interface_selection	24	static
+../Drivers/bme280/common_bme.c:244:6:bme280_coines_deinit	4	static

@@ -1,0 +1,17 @@
+../Drivers/vl53l4cx/vl53lx_nvm.c:46:14:VL53LX_nvm_enable	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:120:14:VL53LX_nvm_read	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:201:14:VL53LX_nvm_disable	24	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:241:14:VL53LX_nvm_format_decode	56	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:818:14:VL53LX_nvm_decode_optical_centre	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:844:14:VL53LX_nvm_decode_cal_peak_rate_map	40	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:881:14:VL53LX_nvm_decode_additional_offset_cal_data	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:908:14:VL53LX_nvm_decode_fmt_range_results_data	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:950:14:VL53LX_nvm_decode_fmt_info	40	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1171:14:VL53LX_nvm_decode_ews_info	40	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1296:6:VL53LX_nvm_format_encode	16	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1305:14:VL53LX_read_nvm_raw_data	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1347:14:VL53LX_read_nvm	544	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1388:14:VL53LX_read_nvm_optical_centre	24	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1426:14:VL53LX_read_nvm_cal_peak_rate_map	80	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1464:14:VL53LX_read_nvm_additional_offset_cal_data	32	static
+../Drivers/vl53l4cx/vl53lx_nvm.c:1503:14:VL53LX_read_nvm_fmt_range_results_data	48	static

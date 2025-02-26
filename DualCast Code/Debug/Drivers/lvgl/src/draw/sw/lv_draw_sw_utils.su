@@ -1,0 +1,16 @@
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:129:6:lv_draw_sw_rgb565_swap	32	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:163:6:lv_draw_sw_i1_invert	32	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:194:6:lv_draw_sw_i1_convert_to_vtiled	56	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:223:6:lv_draw_sw_rotate	32	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:323:13:rotate270_argb8888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:344:13:rotate180_argb8888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:364:13:rotate90_argb8888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:388:13:rotate90_rgb888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:407:13:rotate180_rgb888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:425:13:rotate270_rgb888	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:447:13:rotate270_rgb565	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:468:13:rotate180_rgb565	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:487:13:rotate90_rgb565	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:513:13:rotate90_l8	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:531:13:rotate180_l8	40	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_utils.c:547:13:rotate270_l8	40	static

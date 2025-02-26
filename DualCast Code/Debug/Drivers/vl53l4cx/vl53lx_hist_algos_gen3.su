@@ -1,0 +1,12 @@
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:50:6:VL53LX_f_003	24	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:102:14:VL53LX_f_006	96	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:204:14:VL53LX_f_007	24	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:242:14:VL53LX_f_008	24	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:291:14:VL53LX_f_009	32	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:383:14:VL53LX_f_016	72	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:462:14:VL53LX_f_010	32	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:500:14:VL53LX_f_015	64	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:581:14:VL53LX_f_020	152	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:649:14:VL53LX_f_011	32	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:692:14:VL53LX_f_014	112	static
+../Drivers/vl53l4cx/vl53lx_hist_algos_gen3.c:786:6:VL53LX_f_017	24	static

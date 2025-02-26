@@ -1,0 +1,10 @@
+../Core/Src/app_freertos.c:224:6:MX_FREERTOS_Init	8	static
+../Core/Src/app_freertos.c:411:6:BlinkTask	16	static
+../Core/Src/app_freertos.c:432:6:LvglTask	1408	static
+../Core/Src/app_freertos.c:933:6:LoraTask	112	static
+../Core/Src/app_freertos.c:1081:6:AccelTask	88	static
+../Core/Src/app_freertos.c:1167:6:AtmoTask	288	static
+../Core/Src/app_freertos.c:1299:6:LidarTask	24	static
+../Core/Src/app_freertos.c:1449:6:UartTask	616	static
+../Core/Src/app_freertos.c:1545:6:AdcTask	56	static
+../Core/Src/app_freertos.c:1593:6:HapticTask	16	static

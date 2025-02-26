@@ -1,0 +1,11 @@
+../Drivers/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Drivers/lvgl/src/draw/../misc/lv_bidi.h:71:20:lv_bidi_calculate_align	24	static
+../Drivers/lvgl/src/draw/../misc/lv_text_private.h:166:20:lv_text_is_marker	16	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:65:6:lv_draw_label_dsc_init	24	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:80:23:lv_draw_task_get_label_dsc	16	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:85:6:lv_draw_glyph_dsc_init	16	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:90:28:lv_draw_label	32	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:118:28:lv_draw_character	88	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:158:6:lv_draw_label_iterate_characters	328	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:487:16:hex_char_to_num	16	static
+../Drivers/lvgl/src/draw/lv_draw_label.c:493:13:draw_letter	96	static

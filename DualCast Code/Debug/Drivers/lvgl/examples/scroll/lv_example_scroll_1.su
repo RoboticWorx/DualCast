@@ -1,0 +1,3 @@
+../Drivers/lvgl/examples/scroll/lv_example_scroll_1.c:13:13:scroll_update_cb	16	static
+../Drivers/lvgl/examples/scroll/lv_example_scroll_1.c:28:13:button_event_cb	24	static
+../Drivers/lvgl/examples/scroll/lv_example_scroll_1.c:44:6:lv_example_scroll_1	40	static

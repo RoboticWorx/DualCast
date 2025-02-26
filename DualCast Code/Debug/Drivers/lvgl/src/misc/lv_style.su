@@ -1,0 +1,15 @@
+../Drivers/lvgl/src/misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Drivers/lvgl/src/misc/lv_style.h:406:20:lv_style_is_const	16	static
+../Drivers/lvgl/src/misc/lv_style.h:500:30:lv_style_get_prop_inlined	48	static
+../Drivers/lvgl/src/misc/lv_style.h:540:24:lv_style_get_prop_group	24	static
+../Drivers/lvgl/src/misc/lv_style.c:176:6:lv_style_init	16	static
+../Drivers/lvgl/src/misc/lv_style.c:190:6:lv_style_reset	16	static
+../Drivers/lvgl/src/misc/lv_style.c:201:17:lv_style_register_prop	32	static
+../Drivers/lvgl/src/misc/lv_style.c:237:17:lv_style_get_num_custom_props	4	static
+../Drivers/lvgl/src/misc/lv_style.c:242:6:lv_style_remove_prop	56	static
+../Drivers/lvgl/src/misc/lv_style.c:295:6:lv_style_set_prop	56	static
+../Drivers/lvgl/src/misc/lv_style.c:350:16:lv_style_get_prop	24	static
+../Drivers/lvgl/src/misc/lv_style.c:355:6:lv_style_transition_dsc_init	24	static
+../Drivers/lvgl/src/misc/lv_style.c:366:18:lv_style_prop_get_default	64	static
+../Drivers/lvgl/src/misc/lv_style.c:434:6:lv_style_is_empty	16	static
+../Drivers/lvgl/src/misc/lv_style.c:441:9:lv_style_prop_lookup_flags	16	static

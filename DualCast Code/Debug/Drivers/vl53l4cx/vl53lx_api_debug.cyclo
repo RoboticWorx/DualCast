@@ -1,0 +1,6 @@
+../Drivers/vl53l4cx/vl53lx_api_debug.c:41:14:VL53LX_decode_calibration_data_buffer	2
+../Drivers/vl53l4cx/vl53lx_api_debug.c:61:14:VL53LX_get_nvm_debug_data	1
+../Drivers/vl53l4cx/vl53lx_api_debug.c:87:14:VL53LX_get_histogram_debug_data	1
+../Drivers/vl53l4cx/vl53lx_api_debug.c:113:14:VL53LX_get_additional_data	1
+../Drivers/vl53l4cx/vl53lx_api_debug.c:156:14:VL53LX_get_xtalk_debug_data	1
+../Drivers/vl53l4cx/vl53lx_api_debug.c:200:14:VL53LX_get_offset_debug_data	1

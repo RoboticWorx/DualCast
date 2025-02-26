@@ -1,0 +1,11 @@
+../Drivers/lvgl/src/draw/../misc/../font/../draw/../misc/lv_area.h:107:20:lv_area_copy	1
+../Drivers/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Drivers/lvgl/src/draw/lv_draw_image.c:49:6:lv_draw_image_dsc_init	1
+../Drivers/lvgl/src/draw/lv_draw_image.c:61:23:lv_draw_task_get_image_dsc	2
+../Drivers/lvgl/src/draw/lv_draw_image.c:66:6:lv_draw_layer	4
+../Drivers/lvgl/src/draw/lv_draw_image.c:95:6:lv_draw_image	7
+../Drivers/lvgl/src/draw/lv_draw_image.c:133:16:lv_image_src_get_type	5
+../Drivers/lvgl/src/draw/lv_draw_image.c:150:6:lv_draw_image_normal_helper	7
+../Drivers/lvgl/src/draw/lv_draw_image.c:190:6:lv_draw_image_tiled_helper	7
+../Drivers/lvgl/src/draw/lv_draw_image.c:249:6:lv_image_buf_get_transformed_area	4
+../Drivers/lvgl/src/draw/lv_draw_image.c:280:13:img_decode_and_draw	8

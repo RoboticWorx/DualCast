@@ -1,0 +1,7 @@
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:71:6:lv_draw_sw_init	2
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:97:6:lv_draw_sw_deinit	1
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:108:16:lv_draw_sw_delete	1
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:130:20:execute_drawing_unit	1
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:141:16:evaluate	14
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:183:16:dispatch	4
+../Drivers/lvgl/src/draw/sw/lv_draw_sw.c:252:13:execute_drawing	11

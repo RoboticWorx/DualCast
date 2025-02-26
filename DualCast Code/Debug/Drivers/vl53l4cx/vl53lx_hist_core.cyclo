@@ -1,0 +1,7 @@
+../Drivers/vl53l4cx/vl53lx_hist_core.c:49:6:VL53LX_f_022	4
+../Drivers/vl53l4cx/vl53lx_hist_core.c:81:14:VL53LX_f_018	5
+../Drivers/vl53l4cx/vl53lx_hist_core.c:217:6:VL53LX_f_019	1
+../Drivers/vl53l4cx/vl53lx_hist_core.c:263:7:VL53LX_f_029	2
+../Drivers/vl53l4cx/vl53lx_hist_core.c:277:7:VL53LX_f_005	6
+../Drivers/vl53l4cx/vl53lx_hist_core.c:365:9:VL53LX_f_030	5
+../Drivers/vl53l4cx/vl53lx_hist_core.c:404:15:VL53LX_f_031	14

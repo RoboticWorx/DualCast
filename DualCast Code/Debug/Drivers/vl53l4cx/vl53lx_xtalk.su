@@ -1,0 +1,11 @@
+../Drivers/vl53l4cx/vl53lx_xtalk.c:49:14:VL53LX_xtalk_calibration_process_data	640	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:154:14:VL53LX_f_041	32	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:210:14:VL53LX_f_039	64	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:340:14:VL53LX_f_040	32	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:405:14:VL53LX_f_045	176	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:498:14:VL53LX_f_046	72	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:562:14:VL53LX_f_032	288	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:756:14:VL53LX_f_033	136	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:833:14:VL53LX_f_047	40	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:871:14:VL53LX_f_044	128	static
+../Drivers/vl53l4cx/vl53lx_xtalk.c:1004:14:VL53LX_f_043	32	static

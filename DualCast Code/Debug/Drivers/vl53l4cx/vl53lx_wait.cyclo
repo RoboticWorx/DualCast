@@ -1,0 +1,9 @@
+../Drivers/vl53l4cx/vl53lx_wait.c:34:14:VL53LX_wait_for_boot_completion	5
+../Drivers/vl53l4cx/vl53lx_wait.c:81:14:VL53LX_wait_for_range_completion	5
+../Drivers/vl53l4cx/vl53lx_wait.c:127:14:VL53LX_wait_for_test_completion	5
+../Drivers/vl53l4cx/vl53lx_wait.c:175:14:VL53LX_is_boot_complete	2
+../Drivers/vl53l4cx/vl53lx_wait.c:214:14:VL53LX_is_firmware_ready	1
+../Drivers/vl53l4cx/vl53lx_wait.c:237:14:VL53LX_is_new_data_ready	3
+../Drivers/vl53l4cx/vl53lx_wait.c:283:14:VL53LX_poll_for_boot_completion	3
+../Drivers/vl53l4cx/vl53lx_wait.c:318:14:VL53LX_poll_for_firmware_ready	9
+../Drivers/vl53l4cx/vl53lx_wait.c:370:14:VL53LX_poll_for_range_completion	2

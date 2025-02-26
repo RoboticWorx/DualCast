@@ -1,0 +1,2 @@
+../Drivers/vl53l4cx/vl53lx_hist_funcs.c:58:14:VL53LX_hist_process_data	320	static
+../Drivers/vl53l4cx/vl53lx_hist_funcs.c:262:14:VL53LX_hist_ambient_dmax	80	static

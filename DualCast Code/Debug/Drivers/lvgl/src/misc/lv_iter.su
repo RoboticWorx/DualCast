@@ -1,0 +1,10 @@
+../Drivers/lvgl/src/misc/lv_iter.c:61:13:lv_iter_create	32	static
+../Drivers/lvgl/src/misc/lv_iter.c:85:8:lv_iter_get_context	16	static
+../Drivers/lvgl/src/misc/lv_iter.c:92:6:lv_iter_destroy	16	static
+../Drivers/lvgl/src/misc/lv_iter.c:106:6:lv_iter_make_peekable	16	static
+../Drivers/lvgl/src/misc/lv_iter.c:116:13:lv_iter_next	24	static
+../Drivers/lvgl/src/misc/lv_iter.c:137:13:lv_iter_peek	32	static
+../Drivers/lvgl/src/misc/lv_iter.c:157:13:lv_iter_peek_advance	24	static
+../Drivers/lvgl/src/misc/lv_iter.c:168:13:lv_iter_peek_reset	16	static
+../Drivers/lvgl/src/misc/lv_iter.c:179:6:lv_iter_inspect	24	static
+../Drivers/lvgl/src/misc/lv_iter.c:203:13:peek_fill_cb	32	static

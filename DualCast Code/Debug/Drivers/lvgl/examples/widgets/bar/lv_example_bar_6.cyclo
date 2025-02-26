@@ -1,0 +1,3 @@
+../Drivers/lvgl/examples/widgets/bar/lv_example_bar_6.c:7:13:set_value	1
+../Drivers/lvgl/examples/widgets/bar/lv_example_bar_6.c:12:13:event_cb	2
+../Drivers/lvgl/examples/widgets/bar/lv_example_bar_6.c:56:6:lv_example_bar_6	1

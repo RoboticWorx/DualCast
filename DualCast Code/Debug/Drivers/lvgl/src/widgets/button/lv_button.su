@@ -1,0 +1,2 @@
+../Drivers/lvgl/src/widgets/button/lv_button.c:49:12:lv_button_create	24	static
+../Drivers/lvgl/src/widgets/button/lv_button.c:61:13:lv_button_constructor	16	static

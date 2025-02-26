@@ -1,0 +1,5 @@
+../Drivers/lvgl/examples/widgets/chart/../../../src/core/lv_obj_style.h:196:20:lv_obj_set_style_pad_all	1
+../Drivers/lvgl/examples/widgets/chart/lv_example_chart_5.c:13:6:lv_example_chart_5	2
+../Drivers/lvgl/examples/widgets/chart/lv_example_chart_5.c:36:13:draw_event_cb	5
+../Drivers/lvgl/examples/widgets/chart/lv_example_chart_5.c:51:13:add_faded_area	2
+../Drivers/lvgl/examples/widgets/chart/lv_example_chart_5.c:107:13:hook_division_lines	6

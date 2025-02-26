@@ -1,0 +1,17 @@
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:34:14:VL53LX_init_refspadchar_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:64:14:VL53LX_init_ssc_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:102:14:VL53LX_init_xtalk_config_struct	6
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:181:14:VL53LX_init_xtalk_extract_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:226:14:VL53LX_init_offset_cal_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:264:14:VL53LX_init_zone_cal_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:301:14:VL53LX_init_hist_post_process_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:419:14:VL53LX_init_dmax_calibration_data_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:449:14:VL53LX_init_tuning_parm_storage_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:679:14:VL53LX_init_hist_gen3_dmax_config_struct	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:718:14:VL53LX_preset_mode_standard_ranging	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:952:14:VL53LX_preset_mode_histogram_ranging	2
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:1071:14:VL53LX_preset_mode_histogram_long_range	2
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:1193:14:VL53LX_preset_mode_histogram_medium_range	2
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:1315:14:VL53LX_preset_mode_histogram_short_range	2
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:1438:6:VL53LX_copy_hist_cfg_to_static_cfg	1
+../Drivers/vl53l4cx/vl53lx_api_preset_modes.c:1514:6:VL53LX_copy_hist_bins_to_static_cfg	1

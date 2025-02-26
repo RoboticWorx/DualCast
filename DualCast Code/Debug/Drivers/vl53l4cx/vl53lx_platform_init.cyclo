@@ -1,0 +1,2 @@
+../Drivers/vl53l4cx/vl53lx_platform_init.c:21:14:VL53LX_platform_init	10
+../Drivers/vl53l4cx/vl53lx_platform_init.c:80:14:VL53LX_platform_terminate	4

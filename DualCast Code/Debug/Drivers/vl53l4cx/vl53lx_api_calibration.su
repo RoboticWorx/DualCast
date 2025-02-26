@@ -1,0 +1,8 @@
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:50:14:VL53LX_run_ref_spad_char	64	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:214:14:VL53LX_get_and_avg_xtalk_samples	48	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:478:14:VL53LX_run_phasecal_average	48	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:608:14:VL53LX_run_device_test	32	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:691:6:VL53LX_hist_xtalk_extract_data_init	24	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:718:14:VL53LX_hist_xtalk_extract_update	32	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:750:14:VL53LX_hist_xtalk_extract_fini	32	static
+../Drivers/vl53l4cx/vl53lx_api_calibration.c:828:16:VL53LX_run_hist_xtalk_extraction	136	static

@@ -1,0 +1,9 @@
+../Core/Src/dualcast_functions.c:25:13:generate_random_iv	2
+../Core/Src/dualcast_functions.c:33:6:set_lora_rx_mode	4
+../Core/Src/dualcast_functions.c:55:6:set_lora_tx_mode	4
+../Core/Src/dualcast_functions.c:73:6:lora_tx	4
+../Core/Src/dualcast_functions.c:93:6:process_received_message	6
+../Core/Src/dualcast_functions.c:147:6:encrypt_and_transmit	4
+../Core/Src/dualcast_functions.c:188:8:set_accel_config	3
+../Core/Src/dualcast_functions.c:214:7:lsb_to_mps2	1
+../Core/Src/dualcast_functions.c:220:5:int_map	1

@@ -1,0 +1,17 @@
+../Drivers/vl53l4cx/vl53lx_core_support.c:37:10:VL53LX_calc_pll_period_us	2
+../Drivers/vl53l4cx/vl53lx_core_support.c:57:11:VL53LX_duration_maths	2
+../Drivers/vl53l4cx/vl53lx_core_support.c:99:10:VL53LX_events_per_spad_maths	3
+../Drivers/vl53l4cx/vl53lx_core_support.c:139:10:VL53LX_isqrt	4
+../Drivers/vl53l4cx/vl53lx_core_support.c:165:7:VL53LX_hist_calc_zero_distance_phase	2
+../Drivers/vl53l4cx/vl53lx_core_support.c:194:7:VL53LX_hist_estimate_ambient_from_thresholded_bins	4
+../Drivers/vl53l4cx/vl53lx_core_support.c:244:7:VL53LX_hist_remove_ambient_bins	7
+../Drivers/vl53l4cx/vl53lx_core_support.c:293:10:VL53LX_calc_pll_period_mm	1
+../Drivers/vl53l4cx/vl53lx_core_support.c:323:10:VL53LX_rate_maths	7
+../Drivers/vl53l4cx/vl53lx_core_support.c:367:10:VL53LX_rate_per_spad_maths	3
+../Drivers/vl53l4cx/vl53lx_core_support.c:403:9:VL53LX_range_maths	8
+../Drivers/vl53l4cx/vl53lx_core_support.c:465:9:VL53LX_decode_vcsel_period	1
+../Drivers/vl53l4cx/vl53lx_core_support.c:477:6:VL53LX_copy_xtalk_bin_data_to_histogram_data_struct	1
+../Drivers/vl53l4cx/vl53lx_core_support.c:506:6:VL53LX_init_histogram_bin_data_struct	5
+../Drivers/vl53l4cx/vl53lx_core_support.c:567:6:VL53LX_decode_row_col	2
+../Drivers/vl53l4cx/vl53lx_core_support.c:585:7:VL53LX_hist_find_min_max_bin_values	6
+../Drivers/vl53l4cx/vl53lx_core_support.c:609:7:VL53LX_hist_estimate_ambient_from_ambient_bins	3

@@ -1,0 +1,8 @@
+../Drivers/bmi323/common.c:102:6:bmi3_error_codes_print_result	16
+../Drivers/bmi323/common.c:214:8:bmi3_interface_init	4
+../Drivers/bmi323/common.c:282:6:bmi3_coines_deinit	1
+../Drivers/bmi323/common.c:300:27:bmi3_i2c_read	3
+../Drivers/bmi323/common.c:324:27:bmi3_i2c_write	2
+../Drivers/bmi323/common.c:344:27:bmi3_spi_read	1
+../Drivers/bmi323/common.c:357:27:bmi3_spi_write	1
+../Drivers/bmi323/common.c:370:13:bmi3_delay_us	2

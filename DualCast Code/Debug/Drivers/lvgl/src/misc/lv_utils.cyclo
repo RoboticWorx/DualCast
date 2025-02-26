@@ -1,0 +1,2 @@
+../Drivers/lvgl/src/misc/lv_utils.c:38:8:lv_utils_bsearch	4
+../Drivers/lvgl/src/misc/lv_utils.c:61:13:lv_draw_buf_save_to_file	6

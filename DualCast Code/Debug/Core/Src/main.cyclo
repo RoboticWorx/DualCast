@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm33.h:3212:26:ITM_SendChar	4
+../Core/Src/main.c:79:5:_write	2
+../Core/Src/main.c:97:5:main	1
+../Core/Src/main.c:160:6:SystemClock_Config	4
+../Core/Src/main.c:217:13:MX_ADC1_Init	3
+../Core/Src/main.c:280:13:MX_GPDMA1_Init	1
+../Core/Src/main.c:308:13:MX_I2C1_Init	4
+../Core/Src/main.c:356:13:MX_I2C4_Init	4
+../Core/Src/main.c:404:13:MX_ICACHE_Init	2
+../Core/Src/main.c:432:13:MX_SPI1_Init	2
+../Core/Src/main.c:480:13:MX_SPI3_Init	2
+../Core/Src/main.c:528:13:MX_UART4_Init	5
+../Core/Src/main.c:576:13:MX_GPIO_Init	1
+../Core/Src/main.c:827:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:844:6:Error_Handler	1

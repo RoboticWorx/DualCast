@@ -1,0 +1,3 @@
+../Drivers/vl53l4cx/vl53lx_platform_ipp.c:28:14:VL53LX_ipp_hist_process_data	56	static
+../Drivers/vl53l4cx/vl53lx_platform_ipp.c:63:14:VL53LX_ipp_hist_ambient_dmax	40	static
+../Drivers/vl53l4cx/vl53lx_platform_ipp.c:90:14:VL53LX_ipp_xtalk_calibration_process_data	32	static
