@@ -1,7 +1,7 @@
 # DualCast
 Everything needed to build my DualCast project! DualCast is a 2.4GHz wireless network analyzer and LoRa (long-range) transceiver based on STM32, SX1262, and ESP32-C6.
 
-The all-inclusive, open-source article explaining the project can be found here for free. ><
+The all-inclusive, open-source article explaining the project [can be found here for free](https://roboticworx.io/blogs/projects/dualcast). ><
 
 ![dualcast cover - blue on table](https://github.com/user-attachments/assets/e97adc30-d2c1-45fd-85f6-4fe78ff5babb)
 
