@@ -1,0 +1,14 @@
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:165:19:HAL_FLASH_Program	4
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:227:19:HAL_FLASH_Program_IT	4
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:283:6:HAL_FLASH_IRQHandler	8
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:383:13:HAL_FLASH_EndOfOperationCallback	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:401:13:HAL_FLASH_OperationErrorCallback	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:434:19:HAL_FLASH_Unlock	3
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:458:19:HAL_FLASH_Lock	2
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:478:19:HAL_FLASH_OB_Unlock	3
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:502:19:HAL_FLASH_OB_Lock	2
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:522:19:HAL_FLASH_OB_Launch	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:565:10:HAL_FLASH_GetError	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:589:19:FLASH_WaitForLastOperation	6
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:638:13:FLASH_Program_DoubleWord	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_flash.c:660:24:FLASH_Program_Fast	3

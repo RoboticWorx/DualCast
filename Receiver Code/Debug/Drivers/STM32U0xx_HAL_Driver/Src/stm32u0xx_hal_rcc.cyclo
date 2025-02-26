@@ -1,0 +1,14 @@
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:220:19:HAL_RCC_DeInit	9
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:326:19:HAL_RCC_OscConfig	85
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:883:19:HAL_RCC_ClockConfig	21
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1111:6:HAL_RCC_MCOConfig	3
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1192:10:HAL_RCC_GetSysClockFreq	14
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1302:10:HAL_RCC_GetHCLKFreq	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1313:10:HAL_RCC_GetPCLK1Freq	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1326:6:HAL_RCC_GetOscConfig	14
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1465:6:HAL_RCC_GetClockConfig	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1496:6:HAL_RCC_EnableCSS	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1505:6:HAL_RCC_NMI_IRQHandler	2
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1522:13:HAL_RCC_CSSCallback	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1535:10:HAL_RCC_GetResetSource	1
+../Drivers/STM32U0xx_HAL_Driver/Src/stm32u0xx_hal_rcc.c:1566:26:RCC_SetFlashLatencyFromMSIRange	9

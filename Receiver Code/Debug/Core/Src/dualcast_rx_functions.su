@@ -1,0 +1,9 @@
+../Core/Src/dualcast_rx_functions.c:24:13:generate_random_iv	24	static
+../Core/Src/dualcast_rx_functions.c:32:6:set_lora_rx_mode	24	static
+../Core/Src/dualcast_rx_functions.c:54:6:set_lora_tx_mode	24	static
+../Core/Src/dualcast_rx_functions.c:71:6:lora_tx	32	static
+../Core/Src/dualcast_rx_functions.c:91:6:process_received_message	296	static
+../Core/Src/dualcast_rx_functions.c:144:6:encrypt_and_transmit	384	static
+../Core/Src/dualcast_rx_functions.c:179:6:output_to_binary	16	static
+../Core/Src/dualcast_rx_functions.c:205:6:reset_gpios	8	static
+../Core/Src/dualcast_rx_functions.c:214:7:lsb_to_mps2	32	static
