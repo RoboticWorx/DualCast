@@ -6,7 +6,6 @@ The all-inclusive, open-source article explaining the project [can be found here
 ![dualcast cover - blue on table](https://github.com/user-attachments/assets/e97adc30-d2c1-45fd-85f6-4fe78ff5babb)
 
 ![dualcast black on table](https://github.com/user-attachments/assets/9f3ddb84-d706-4b72-b85e-7edc6bcdb8a1)
-https://youtu.be/qswA1kR0dJA
 ![DualCast - f - beacons](https://github.com/user-attachments/assets/82f87781-a2f1-4523-a0ee-87317415bba8)
 ![DualCast - f - data frames](https://github.com/user-attachments/assets/e0fb9b61-aee0-46ee-b119-b5b14d628930)
 ![DualCast - f - LoRa antenna out](https://github.com/user-attachments/assets/51241237-4d1d-4be4-9f89-040190b42be7)
