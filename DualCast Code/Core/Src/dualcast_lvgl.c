@@ -1205,8 +1205,8 @@ void update_rssi_snr_bars(int rssi, int snr)
         lv_chart_set_next_value(lora_rssi_snr_chart, series_rssi, rssi);
         lv_chart_set_next_value(lora_rssi_snr_chart, series_snr, bar_snr);
 
-        static char rssi_buf[4];
-        static char snr_buf[4];
+        static char rssi_buf[5];
+        static char snr_buf[5];
         snprintf(rssi_buf, sizeof(rssi_buf), "%d", rssi);
         snprintf(snr_buf, sizeof(snr_buf), "%d", snr);
 
