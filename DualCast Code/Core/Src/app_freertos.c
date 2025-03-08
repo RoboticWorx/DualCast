@@ -963,6 +963,8 @@ void LoraTask(void *argument)
 
 	sx126x_hal_reset(NULL);
 
+	osDelay(10);
+
 	while (HAL_GPIO_ReadPin(SX_BUSY_GPIO_Port, SX_BUSY_Pin) == GPIO_PIN_SET);
 
 	sx126x_status_t status = sx126x_init_retention_list(NULL);
